@@ -1,0 +1,7 @@
+@media screen and (max-width: 576px) {
+  Tr {
+    font-size: small;
+  }
+  .table-student {
+  }
+}
